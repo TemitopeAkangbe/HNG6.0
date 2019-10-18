@@ -21,6 +21,15 @@
         width: 100%;
         }
 
+        .footer{
+                text-align: left;
+                align-items: left;
+                justify-content: left;
+                padding: 0px;
+                float: left;
+                width: 100%;
+            }
+
         footer .footer-header {
         width: 100%;
         font-weight: bold;
